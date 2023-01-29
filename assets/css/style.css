@@ -87,12 +87,12 @@ p {
     color: #ffffff;
 }
 
-/*Deleted all the repeated img elements with the same margin and font size and group them*/
+/*Deleted all the repeated img selectors with the same margin and font size and grouped them*/
 img {
     max-height: 200px;
 }
 
-/*Deleted all the repeated h2 elements with the same margin and font size and group them*/
+/*Deleted all the repeated h2 selectors with the same margin and font size and grouped them*/
 
 h2 {
     margin-bottom: 20px;
@@ -110,7 +110,7 @@ h2 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* Deleted repeated elements and grouped them under same class*/
+/* Deleted repeated selectors and grouped them under same CSS selector */
 .benefit-style {
     margin-bottom: 32px;
     color: #ffffff;
@@ -120,7 +120,7 @@ h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/* Deleted repeated element and grouped them under same class */
+/* Deleted repeated selectors and grouped them under same CSS selector */
 .benefit-style img {
     display: block;
     margin: 10px auto;
